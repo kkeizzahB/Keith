@@ -43,7 +43,7 @@
     },
     "AUTOLIKE_STATUS": {
       "description": "Auto like WhatsApp status (true/false)",
-      "value": "false",
+      "value": "true",
       "required": false
     },
     "STATUS_LIKE_EMOJIS": {
