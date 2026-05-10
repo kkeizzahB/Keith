@@ -28,8 +28,7 @@
       "description": "Your WhatsApp session ID",
       "required": true
     },
-    
-    
+     
     "DATABASE_URL": {
       "description": "insert your database url",
       "value": "",
@@ -52,7 +51,6 @@
       "required": false
     },
     
-    
     "PREFIX": {
       "description": "Bot command prefix",
       "value": ".",
@@ -65,8 +63,6 @@
       "required": false
     },
     
-
-    
     "BOT_PIC": {
       "description": "Bot profile picture URL",
       "value": "https://i.ibb.co/PsZnb9NH/0d81ac6b1fb1.jpg",
@@ -75,6 +71,16 @@
     "BOTNAME": {
       "description": "Bot display name",
       "value": "KEITH-MD",
+      "required": false
+    },
+    "AUTO_SOCIAL_DOWNLOAD": {
+      "description": "when enabled true bot will automatically download social media videos when you share the url example for tiktok instagram youtube and many more",
+      "value": "false",
+      "required": false
+    },
+    "OWNER_NAME": {
+      "description": "your botname",
+      "value": "Keith",
       "required": false
     },
     "MODE": {
